@@ -1,4 +1,4 @@
-### Footprint positions - created on 2026-09-07T21:45:01+0700 ###
+### Footprint positions - created on 2026-09-07T22:31:52+0700 ###
 ### Printed by KiCad version 9.0.2
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -6,6 +6,6 @@
 J2        PWR       PinHeader_1x04_P2.54mm_Vertical   144.1800  -144.7300   90.0000  bottom
 J3        SPI       PinHeader_1x04_P2.54mm_Vertical   183.0350   -97.3800    0.0000  bottom
 J4        UART0     PinHeader_1x04_P2.54mm_Vertical   183.0750   -77.2800  180.0000  bottom
-J5        CONN1     PinHeader_1x06_P2.54mm_Vertical   134.9350   -78.4500  180.0000  bottom
-J6        CONN2     PinHeader_1x09_P2.54mm_Vertical   135.1100   -98.1200  180.0000  bottom
+J5        CONN1     PinHeader_1x06_P2.54mm_Vertical   135.0200   -78.4400  180.0000  bottom
+J6        CONN2     PinHeader_1x09_P2.54mm_Vertical   135.0200   -98.1100  180.0000  bottom
 ## End
