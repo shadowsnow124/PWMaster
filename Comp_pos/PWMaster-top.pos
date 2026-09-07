@@ -1,0 +1,37 @@
+### Footprint positions - created on 2026-09-07T21:45:01+0700 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val               Package                               PosX       PosY       Rot  Side
+C1        100nF             C_0805_2012Metric                 140.7600  -125.5000  180.0000  top
+C2        10uF              CP_Radial_D5.0mm_P2.00mm          141.4800  -129.6300  180.0000  top
+C3        10uF              CP_Radial_D5.0mm_P2.00mm          141.4500  -135.7300  180.0000  top
+C4        10uF              CP_Radial_D5.0mm_P2.00mm          150.2551  -115.0800  180.0000  top
+C5        100nF             C_0805_2012Metric                 156.6400  -116.8400    0.0000  top
+C6        100nF             C_0805_2012Metric                 160.5000  -120.7300    0.0000  top
+C7        10nF              C_0805_2012Metric                 168.9600  -107.8400   90.0000  top
+C8        10nF              C_0805_2012Metric                 169.2300  -115.7500   90.0000  top
+C9        100nF             C_0805_2012Metric                 148.4400   -76.4000  180.0000  top
+D1        SS34              D_SMA                             148.9100  -140.2825  -90.0000  top
+D2        LED               LED_D3.0mm                        149.6500   -97.4600  -90.0000  top
+D3        LED               LED_D3.0mm                        155.6100   -97.4600  -90.0000  top
+D4        LED               LED_D3.0mm                        161.5700   -97.4700  -90.0000  top
+D5        SS34              D_SMA                             150.8500  -130.9800    0.0000  top
+J1        USB_B             USB_B_OST_USB-B1HSxx_Horizontal   166.2400  -131.3325  -90.0000  top
+R1        10k               R_0805_2012Metric                 172.9200  -124.7300   90.0000  top
+R2        6k8               R_0805_2012Metric                 148.3575   -90.7400    0.0000  top
+R3        6k8               R_0805_2012Metric                 148.3500   -94.5300    0.0000  top
+R4        10k               R_0805_2012Metric                 172.6600  -107.8200   90.0000  top
+R5        10k               R_0805_2012Metric                 172.9000  -115.6700   90.0000  top
+R6        1k                R_0805_2012Metric                 149.5800  -104.9000   90.0000  top
+R7        1k                R_0805_2012Metric                 152.3500  -104.9200  -90.0000  top
+R8        1k                R_0805_2012Metric                 154.9600  -104.9300  -90.0000  top
+R9        10k               R_0805_2012Metric                 169.5000  -124.7300   90.0000  top
+SW1       RST               SW_PUSH_6mm                       183.5800  -107.7500  180.0000  top
+SW2       BOOT              SW_PUSH_6mm                       183.5900  -116.1700  180.0000  top
+SW3       SW                SW_PUSH_6mm                       183.5800  -124.7000  180.0000  top
+SW4       SW                SW_PUSH_6mm                       177.0600  -128.7200    0.0000  top
+U1        ESP32-S3-WROOM-2  ESP32-S3-WROOM-2                  160.8750   -80.3700    0.0000  top
+U2        AMS1117-3.3       SOT-223-3_TabPin2                 150.0600  -122.6200    0.0000  top
+U3        USBLC6-2SC6       SOT-23-6                          160.2500  -125.0000  -90.0000  top
+## End
