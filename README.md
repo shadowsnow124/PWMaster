@@ -15,17 +15,10 @@
 
 ---
 
-## PWBus & PWMaster Architecture
-
-*(Insert system block diagrams, pinout configurations, or wiring schematics for PWBus and PWMaster here)*
-
----
-
 ## Getting Started
 
 ### Prerequisites
 * PWBus-compatible hardware (Buck, Boost, or Buck-Boost Converter circuit)
-* Microcontroller or processing unit capable of executing PWMaster firmware
 * Appropriate IDE or toolchain for compilation and flashing
 
 ## Contributing
@@ -36,4 +29,4 @@ Contributions are always welcome! If you have suggestions, feature requests, or 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL3.0 License](LICENSE).
